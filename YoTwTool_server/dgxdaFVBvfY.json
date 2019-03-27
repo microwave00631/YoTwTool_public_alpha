@@ -1,0 +1,358 @@
+{
+	"actualStartTime": "2019-03-13T21:10:25+09:00",
+	"actualEndTime": "2019-03-13T21:58:50+09:00",
+	"tweets": [
+		{
+			"created_at": "Wed Mar 13 12:29:40 +0000 2019",
+			"id": 1105808143177535500,
+			"id_str": "1105808143177535488",
+			"text": "あっ実在する鳥さんだったのか…！ \nちえり途中から来たから…なんか妖怪的なあれかと…(ㆆ_ㆆ)\n\n#カルロピノ",
+			"truncated": false,
+			"metadata": {
+				"iso_language_code": "ja",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 972262397640548400,
+				"id_str": "972262397640548352",
+				"name": "花京院ちえり🍒",
+				"screen_name": "chieri_kakyoin",
+				"location": "( ･ω･o[ YouTubeはこちらから⤵︎⤵︎ ]o",
+				"description": "【.LIVE】所属/#アイドル部 / 花京院ちえり🍒 (ОvО)🎨ふぁんあーと↪︎#ちぇり絵 ✏️たぐ↪︎#花京院ちえり 🎡応援↪︎ちぇりすとさん(従業員)📮お問い合わせDMはこちら↪︎ @dotLIVEyoutuber",
+				"url": "https://t.co/7pzlhbSeS4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7pzlhbSeS4",
+								"expanded_url": "https://www.youtube.com/channel/UCP9ZgeIJ3Ri9En69R0kJc9Q",
+								"display_url": "youtube.com/channel/UCP9Zg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41866,
+				"friends_count": 749,
+				"listed_count": 2166,
+				"created_at": "Sat Mar 10 00:06:34 +0000 2018",
+				"favourites_count": 42973,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16662,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1059389663289298944/Wkwont4K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059389663289298944/Wkwont4K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/972262397640548352/1547243886",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 990,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		{
+			"created_at": "Wed Mar 13 12:23:36 +0000 2019",
+			"id": 1105806613573591000,
+			"id_str": "1105806613573591040",
+			"text": "インコ系の鳥って総じていい香りするイメージあります。 #カルロピノ",
+			"truncated": false,
+			"metadata": {
+				"iso_language_code": "ja",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992036953804558300,
+				"id_str": "992036953804558336",
+				"name": "神楽すず🍋",
+				"screen_name": "kagura_suzu",
+				"location": "アイドル部",
+				"description": ".LIVE(アップランド)所属Vtuber、神楽すずです。不慣れなところもありますが、よろしくお願いいたします。#神楽すず FA: #すずあーと メンバーへのお問い合わせDMはこちらまで→ @dotLIVEyoutuber",
+				"url": "https://t.co/sZXrnm23xD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sZXrnm23xD",
+								"expanded_url": "https://www.youtube.com/channel/UCUZ5AlC3rTlM-rA2cj5RP6w",
+								"display_url": "youtube.com/channel/UCUZ5A…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32463,
+				"friends_count": 37,
+				"listed_count": 1938,
+				"created_at": "Thu May 03 13:43:35 +0000 2018",
+				"favourites_count": 7481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4454,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073038309671165952/oT0UrzFo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073038309671165952/oT0UrzFo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992036953804558336/1544618361",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 699,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		{
+			"created_at": "Wed Mar 13 12:14:07 +0000 2019",
+			"id": 1105804228478419000,
+			"id_str": "1105804228478418945",
+			"text": "えっ…いるんですか…？ #カルロピノ",
+			"truncated": false,
+			"metadata": {
+				"iso_language_code": "ja",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992036953804558300,
+				"id_str": "992036953804558336",
+				"name": "神楽すず🍋",
+				"screen_name": "kagura_suzu",
+				"location": "アイドル部",
+				"description": ".LIVE(アップランド)所属Vtuber、神楽すずです。不慣れなところもありますが、よろしくお願いいたします。#神楽すず FA: #すずあーと メンバーへのお問い合わせDMはこちらまで→ @dotLIVEyoutuber",
+				"url": "https://t.co/sZXrnm23xD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sZXrnm23xD",
+								"expanded_url": "https://www.youtube.com/channel/UCUZ5AlC3rTlM-rA2cj5RP6w",
+								"display_url": "youtube.com/channel/UCUZ5A…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32463,
+				"friends_count": 37,
+				"listed_count": 1938,
+				"created_at": "Thu May 03 13:43:35 +0000 2018",
+				"favourites_count": 7481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4454,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073038309671165952/oT0UrzFo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073038309671165952/oT0UrzFo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992036953804558336/1544618361",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 758,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		{
+			"created_at": "Wed Mar 13 12:02:22 +0000 2019",
+			"id": 1105801269216579600,
+			"id_str": "1105801269216579585",
+			"text": "サムネかっこいい　#カルロピノ",
+			"truncated": false,
+			"metadata": {
+				"iso_language_code": "ja",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992036953804558300,
+				"id_str": "992036953804558336",
+				"name": "神楽すず🍋",
+				"screen_name": "kagura_suzu",
+				"location": "アイドル部",
+				"description": ".LIVE(アップランド)所属Vtuber、神楽すずです。不慣れなところもありますが、よろしくお願いいたします。#神楽すず FA: #すずあーと メンバーへのお問い合わせDMはこちらまで→ @dotLIVEyoutuber",
+				"url": "https://t.co/sZXrnm23xD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sZXrnm23xD",
+								"expanded_url": "https://www.youtube.com/channel/UCUZ5AlC3rTlM-rA2cj5RP6w",
+								"display_url": "youtube.com/channel/UCUZ5A…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32463,
+				"friends_count": 37,
+				"listed_count": 1938,
+				"created_at": "Thu May 03 13:43:35 +0000 2018",
+				"favourites_count": 7481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4454,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073038309671165952/oT0UrzFo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073038309671165952/oT0UrzFo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992036953804558336/1544618361",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 697,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		}
+	]
+}
