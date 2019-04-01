@@ -77,7 +77,9 @@ class special{
 
 let specials = new Array();
 specials.push(new special('#怪獣めめごん', 'I2dCa1LuDd4'));
-
+specials.push(new special('#ありのおひめさま', 'r53c31oehwQ'));
+specials.push(new special('#ありのおひめさま', 'rWgOr8Ve1XQ'));
+specials.push(new special('#アイドル部学力テスト', 'kggBNGIX7cU'));
 
 var Twitter = require('twitter');
 
